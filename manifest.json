@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Author: Jung Ganmyeon | Join my discord: discord.gg/jgtool",
+    "name": "Gui Custom",
+    "uuid": "3b774404-f048-49cf-be5e-086c675faa95",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 19, 0]
+  },
+  "modules": [
+    {
+      "description": "Author: Jung Ganmyeon | Join my discord: discord.gg/jgtool",
+      "type": "resources",
+      "uuid": "c19842c4-3e7a-48b8-a8dc-2423b2ef5372",
+      "version": [1, 0, 0]
+    }
+  ]
+}
